@@ -17,6 +17,8 @@ The dataset is chronologically split into **80% for training** and **20% for tes
 ## Model Performance & Evaluation Results
 After tuning the architecture by increasing the unit depth and stacking LSTM layers, the model achieved highly accurate results on the testing dataset:
 
+![Model Performance Graph](results_graph.png)
+
 - **Mean Absolute Error (MAE):** $19.18
 - **Weighted Absolute Percentage Error (WAPE):** 3.44%
 
